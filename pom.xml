@@ -17,7 +17,7 @@
                 <configLocation>file:///C/Users/Nivaan/jenkins/workspace/TomcatDeployment/checkstyle.xml</configLocation>
             </configuration>
         </plugin>
-    <--/plugins>
+    </plugins-->
 </reporting>
   <dependencies>
     <dependency>
